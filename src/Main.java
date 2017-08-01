@@ -1,6 +1,12 @@
+import java.util.*;
+
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        String a ="abc";
+        String b = new String(a);
+        System.out.println(a==b);
+
     }
 }
