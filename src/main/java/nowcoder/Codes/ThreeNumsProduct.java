@@ -5,6 +5,6 @@ package nowcoder.Codes;
  */
 public class ThreeNumsProduct {
     private int find(int[] array){
-
+        return 0;
     }
 }

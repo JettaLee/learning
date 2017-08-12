@@ -1,12 +1,24 @@
-import java.util.*;
-
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
-        String a ="abc";
-        String b = new String(a);
-        System.out.println(a==b);
 
+
+
+
+
+}
+
+class TemBean{
+
+    public TemBean(int sum, int[] list) {
+        this.sum = sum;
+        this.list = list;
     }
+
+    int sum;
+
+    int[] list;
+
 }
