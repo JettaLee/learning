@@ -56,7 +56,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="357">
-                <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+                <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Leetcode/Codes/SmallestRange.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode/Questions/SmallestRange.md" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nowcoder/Questions/CrazyArray.md" />
         <option value="$PROJECT_DIR$/src/main/java/nowcoder/Codes/CrazyArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/Questions/CrazyArray.md" />
       </list>
     </option>
   </component>
@@ -895,7 +895,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40401000" />
+    <option name="totallyTimeSpent" value="40722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1337,7 +1337,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="357">
-            <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
