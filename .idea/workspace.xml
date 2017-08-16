@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8778836-94ca-4973-91db-079d96502757" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/nothing2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md" />
-    </list>
+    <list default="true" id="c8778836-94ca-4973-91db-079d96502757" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -911,7 +907,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41038000" />
+    <option name="totallyTimeSpent" value="41234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1351,8 +1347,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
