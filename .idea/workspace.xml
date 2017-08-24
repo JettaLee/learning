@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8778836-94ca-4973-91db-079d96502757" name="Default" comment="NumSum">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/Codes/NumSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/NumSum.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/nothing2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/TemBean.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ForEachTest.class" afterPath="$PROJECT_DIR$/target/classes/ForEachTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$1.class" afterPath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$2.class" afterPath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$Element.class" afterPath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange$Element.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange.class" afterPath="$PROJECT_DIR$/target/classes/Leetcode/Codes/SmallestRange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Main.class" afterPath="$PROJECT_DIR$/target/classes/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/nowcoder/Codes/GroupAnagrams.class" afterPath="$PROJECT_DIR$/target/classes/nowcoder/Codes/GroupAnagrams.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/nowcoder/Codes/SimplifyPath.class" afterPath="$PROJECT_DIR$/target/classes/nowcoder/Codes/SimplifyPath.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md" afterPath="$PROJECT_DIR$/src/main/java/nowcoder/Questions/PalindromicSubstrings.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -871,7 +857,7 @@
       <workItem from="1502511129365" duration="19090000" />
       <workItem from="1502601338430" duration="8540000" />
       <workItem from="1503142266392" duration="453000" />
-      <workItem from="1503459946249" duration="7915000" />
+      <workItem from="1503459946249" duration="8515000" />
     </task>
     <task id="LOCAL-00001" summary="MatrixPower">
       <created>1500788195415</created>
@@ -901,11 +887,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502635491180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="NumSum">
+      <created>1503582058152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503582058153</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52734000" />
+    <option name="totallyTimeSpent" value="53334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -993,7 +986,8 @@
     <MESSAGE value="modified file tree" />
     <MESSAGE value="crazyArray ac" />
     <MESSAGE value="crazyArray dp ac" />
-    <option name="LAST_COMMIT_MESSAGE" value="crazyArray dp ac" />
+    <MESSAGE value="NumSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumSum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

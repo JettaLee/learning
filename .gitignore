@@ -1,0 +1,11 @@
+.settings
+target/
+/test-output
+.classpath
+.project
+/.DS_Store
+.idea
+*.iml
+*.versionsBackup
+.apt_generated
+
