@@ -17,6 +17,3 @@ Explanation: Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa".
 Note:
 The input string length won't exceed 1000.
 
-oh no
-what the fuck
-
