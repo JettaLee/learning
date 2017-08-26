@@ -4,7 +4,7 @@ target/
 .classpath
 .project
 /.DS_Store
-.idea
+.idea/
 *.iml
 *.versionsBackup
 .apt_generated
